@@ -16,3 +16,4 @@ dependencies:
   - scipy
   - sympy
   - jupyterlab-myst
+  - jupyterlab-spellchecker
